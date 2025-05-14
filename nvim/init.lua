@@ -1,5 +1,6 @@
 -- Плагины
-require("plugins")
+require("plugins.plugins")
+require("plugins.none-ls_config")
 -- Настройки
 require("settings")
 -- Подсветка синтаксиса
