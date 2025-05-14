@@ -1,4 +1,9 @@
-#Mac OS
+# Mac OS
 
 .DS_Store
+
+
+# Nvim
+
+lazy-lock.json
 
